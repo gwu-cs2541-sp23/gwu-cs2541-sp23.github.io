@@ -29,9 +29,9 @@ Note: Students taking this course are also expected to be taking CS2501 to meet 
 </blockquote>
 
 ## Announcements ##
- - The course will meet on Zoom. Log into <a href="https://blackboard.gwu.edu/webapps/blackboard/execute/launcher?type=Course&id=_350227_1">Blackboard</a> for the Zoom link!
- - Use our [Slack Message Board](https://cs2541databasess21.slack.com)!
- - This website is under construction. Check the [syllabus](/syllabus) or [last year's edition](https://www2.seas.gwu.edu/~bhagiweb/cs2541/) for a sense of what is to come!
+ - The course will meet on Zoom for the first week! The link will be posted on Blackboard
+ - Use our [Slack Message Board](https://cs2541databasess22.slack.com)!
+ - Check the [syllabus](/syllabus) for a sense of what is to come!
 
 ## Schedule
 
