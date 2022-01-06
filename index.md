@@ -5,50 +5,62 @@ layout: home
 <div class="wrapper" markdown="0"><div class="footer-col-wrapper">
 <div class="footer-col two-col-1">
     <ul class="contact-list">
-        <li><b>Prof. Tim Wood</b></li>
+        <li><a href="https://faculty.cs.gwu.edu/timwood"><b>Prof. Tim Wood</b></a></li>
         <li><a href="mailto:timwood@gwu.edu">timwood@gwu.edu</a></li>
-        <li>Office Hours: TBD, SEH 4580</li>
-        <li>Class: Wednesdays 3:30-6PM in Tompkins 405</li>
+        <li>Office Hours: TBD</li>
+        <li>Class: Mondays 12:45-2pm, Wednesdays 12:45-3:25PM</li>
+        <li><i>Class and Office hours will be on Zoom for the first week of the semester!</i></li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
     <ul class="contact-list">
-        <li>TBD</li>
-        <li><a href="mailto:">TBD</a></li>
-        <li>Office Hours: TBD</li>
-        <li>Labs: Mondays 2:10-3:20 and 9-10:10AM in SEH 4040</li>
+        <li><b>Support Staff:</b></li>
+        <li>Deep Bhattacharya, Joan Wu,</li>
+        <li>Catherine Meadows, Ethan Baron</li>
+        <li>Jett Jacobs, and Alex Coleman</li>
     </ul>
     </div>
 </div></div>
 
+<blockquote>
+This course will expose students to design and implementation of Database systems and team software development. The course introduces relational database design, query languages including SQL, theory behind the design of relational schemas and normal forms, database application development, and team software development.   It introduces  Not just SQL (NoSQL) database systems, types of NoSQL databases,  and design of NoSQL databases.  A semester long team project requiring the design and implementation of a relational database system and  full stack development.  As part of the Writing in the Disciplines (WID) requirement, a number of written reports will be assigned (in this class and in CS2501) and classroom discussions will be required.
 
-> In this course, students will learn how to write object-oriented code using Java. Concepts will focus on object-oriented thinking, software composition, inheritance and polymorphism, and design principles. Programming techniques, assignments and lab exercises will focus on Java, specifically, the language and its core libraries. The course will be conducted lab-style with a mix of lecture, lab assignments and projects. The course will also cover an elementary introduction to the C programming language.
-
+Note: Students taking this course are also expected to be taking CS2501 to meet the degree requirements.
+</blockquote>
 
 ## Announcements ##
-- This website is under construction.
+ - The course will meet on Zoom. Log into <a href="https://blackboard.gwu.edu/webapps/blackboard/execute/launcher?type=Course&id=_350227_1">Blackboard</a> for the Zoom link!
+ - Use our [Slack Message Board](https://cs2541databasess21.slack.com)!
+ - This website is under construction. Check the [syllabus](/syllabus) or [last year's edition](https://www2.seas.gwu.edu/~bhagiweb/cs2541/) for a sense of what is to come!
 
-## Schedule  ##
+## Schedule
 
 <div style="font-size:90%">
 
-| Week | Topic
+<!-- Generated from: https://docs.google.com/spreadsheets/d/103QVFHUswHlAXzN5WUkTI4T6jo6w0xenXp5lP--D63M/edit#gid=0 -->
+
+| Week | Content |
 |:---  |:--- |
-| Week 1 |  |
-| Week 2 |  |
-| Week 3 |  |
-| Week 4 |  |
-| Week 5 |  |
-| Week 6 |  |
-| Week 7 |  |
-| Week 8 |  |
-| Week 9 |  |
-| Week 10 |  |
-| Week 11 |  |
-| Week 12 |  |
-| Week 13 |  |
-| Week 14 |  |
-| Week 15 |  |
-| Week 16 |  |
+| Week 1 | *Monday 1/10/22:* Intro to DB and Web <br>*Wednesday 1/12/22:* DBMS and Course Outline - Lab 1: HTML+CSS |
+| Week 2 | *Monday 1/17/22:* MLK Day - No Class <br>*Wednesday 1/19/22:* Relational Model - Lab 2: Python + Flask |
+| Week 3 | *Monday 1/24/22:* SQL DDL <br>*Wednesday 1/26/22:* SQL DML - Lab 3: SQLite |
+| Week 4 | *Monday 1/31/22:* ER Model <br>*Wednesday 2/2/22:* Normalization - Lab 4: DB Design |
+| Week 5 | *Monday 2/7/22:* More Normalization <br>*Wednesday 2/9/22:* Web Apps - Lab 5: Flask + SQL |
+| Week 6 | *Monday 2/14/22:* HW/Exam Review <br>*Wednesday 2/16/22:* Midterm - Lab: Midterm |
+| Week 7 | *Monday 2/21/22:* Presidents Day - No Class <br>*Wednesday 2/23/22:* Project Overview - Lab 7: AWS and VS Code |
+| Week 8 <br> and beyond | Team project time!|
 
 </div>
+
+## Topics ##
+
+ - Course Overview and Introduction to Database Systems
+ - Introduction to the Relational Model and Relational Algebra
+ - SQL and programming in SQL (MySQL)
+ - Theory of relational schema design and normal forms
+ - Entity Relation Model and ER to Relational mapping
+ - Database Management System Design
+ - Views, Security in SQL
+ - Introduction to NoSQL and Data Analytics 
+ - Web Application Development
+ - Team Software Development 
