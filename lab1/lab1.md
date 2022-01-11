@@ -8,7 +8,7 @@ permalink: /lab1/
 
 # Pre-Lab Exercise
 
-**Time Estimate:** 30-45 minutes 
+**Time Estimate:** 30 minutes 
 **Deadline:** Week 1, Wednesday 12:45PM (before class)
 
 To be fully prepared for lab, we suggest students do a Pre-Lab. As an incentive for this week, we will give you an Engagement point (see syllabus for details) if you complete the pre-lab exercise before class starts on Wednesday.
