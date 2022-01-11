@@ -15,7 +15,7 @@ To be fully prepared for lab, we suggest students do a Pre-Lab. As an incentive 
 
 To complete the Pre-Lab, you must:
   - Get an account for [replit.com](https://replit.com) (we suggest using your github account to login)
-  - Join our [Replit class])https://replit.com/teams/join/vclkcoenhfibmtbggekdcxtrrjeodizi-cs2541s22) 
+  - Join our [Replit classroom](https://replit.com/teams/join/vclkcoenhfibmtbggekdcxtrrjeodizi-cs2541s22) 
   - Complete the [Welcome Survey](https://forms.gle/n8NQLQPSAnJxzogZ6)
   - Solve [Pre-Lab1: Hello World Wide Web](https://replit.com/team/cs2541s22/Pre-Lab1-Hello-World-Wide-Web) on replit
 
