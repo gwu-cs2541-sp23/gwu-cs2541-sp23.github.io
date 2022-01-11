@@ -19,6 +19,6 @@ To complete the Pre-Lab, you must:
   - Complete the [Welcome Survey](https://forms.gle/n8NQLQPSAnJxzogZ6)
   - Solve [Pre-Lab1: Hello World Wide Web](https://replit.com/team/cs2541s22/Pre-Lab1-Hello-World-Wide-Web) on replit
 
-To solve the lab, you must fully follow the Instructions which will be visible when you open the page. You do not need to record your answers to the *italicized questions*, but you might want to take notes since you will be expected to know this information later! You do have a plan for making class notes, right??
+To solve the lab, you must fully follow the Instructions to make a Hello World webpage, which should be visible when you open the project. You do not need to record your answers to the *italicized questions*, but you might want to take notes since you will be expected to know this information later! You do have a plan for making class notes, right??
 
 > Note that pre-labs will not be graded. They are designed to give you practice so that you are prepared for class, and in some cases (like this one) will give you an opportunity to earn an Engagement point.
