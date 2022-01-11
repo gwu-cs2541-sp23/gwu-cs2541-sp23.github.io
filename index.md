@@ -31,7 +31,7 @@ Note: Students taking this course are also expected to be taking CS2501 to meet 
 ## Announcements ##
  - The course will meet on Zoom for the first week! The link is posted on Blackboard
  - You must complete [this short welcome survey](https://forms.gle/n8NQLQPSAnJxzogZ6)
- - Use our [Slack Message Board](https://cs2541databasess22.slack.com)!
+ - Use our [Slack Message Board](https://cs2541databasess22.slack.com)! (Join [here](https://join.slack.com/t/cs2541databasess22/signup))
  - Check the [syllabus](/syllabus) for a sense of what is to come!
 
 ## Schedule
