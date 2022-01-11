@@ -44,7 +44,7 @@ Note: Students taking this course are also expected to be taking CS2501 to meet 
 
 | Week | Content |
 |:---  |:--- |
-| Week 1 | *Monday 1/10/22:* [Intro to DB and Web](slides/22-1-Course-Overview.pdf) - [Video](https://gwu-edu.zoom.us/rec/share/xxdQuu-8Afpx3M7fvoARjSQ5WNYJrBxKEU_ppffGd2D4rrYxyf6JiN7lZEiQUZEH.06GSTY2FJNIg7f-A) <br>*Wednesday 1/12/22:* DBMS and Course Outline - [Lab 1: HTML+CSS](lab1/) |
+| Week 1 | *Monday 1/10/22:* [Intro to DB and Web Slides](slides/22-1-Course-Overview.pdf) - [Video](https://gwu-edu.zoom.us/rec/share/xxdQuu-8Afpx3M7fvoARjSQ5WNYJrBxKEU_ppffGd2D4rrYxyf6JiN7lZEiQUZEH.06GSTY2FJNIg7f-A) <br>*Wednesday 1/12/22:* DBMS and Course Outline - [Lab 1: HTML+CSS](lab1/) |
 | Week 2 | *Monday 1/17/22:* MLK Day - No Class <br>*Wednesday 1/19/22:* Relational Model - Lab 2: Python + Flask |
 | Week 3 | *Monday 1/24/22:* SQL DDL <br>*Wednesday 1/26/22:* SQL DML - Lab 3: SQLite |
 | Week 4 | *Monday 1/31/22:* ER Model <br>*Wednesday 2/2/22:* Normalization - Lab 4: DB Design |
