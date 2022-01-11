@@ -29,7 +29,8 @@ Note: Students taking this course are also expected to be taking CS2501 to meet 
 </blockquote>
 
 ## Announcements ##
- - The course will meet on Zoom for the first week! The link will be posted on Blackboard
+ - The course will meet on Zoom for the first week! The link is posted on Blackboard
+ - You must complete [this short welcome survey](https://forms.gle/n8NQLQPSAnJxzogZ6)
  - Use our [Slack Message Board](https://cs2541databasess22.slack.com)!
  - Check the [syllabus](/syllabus) for a sense of what is to come!
 
@@ -37,11 +38,13 @@ Note: Students taking this course are also expected to be taking CS2501 to meet 
 
 <div style="font-size:90%">
 
+{% comment %}
 <!-- Generated from: https://docs.google.com/spreadsheets/d/103QVFHUswHlAXzN5WUkTI4T6jo6w0xenXp5lP--D63M/edit#gid=0 -->
+{% endcomment %}
 
 | Week | Content |
 |:---  |:--- |
-| Week 1 | *Monday 1/10/22:* Intro to DB and Web <br>*Wednesday 1/12/22:* DBMS and Course Outline - Lab 1: HTML+CSS |
+| Week 1 | *Monday 1/10/22:* [Intro to DB and Web](slides/22-1-Course-Overview.pdf) - [Video](https://gwu-edu.zoom.us/rec/share/xxdQuu-8Afpx3M7fvoARjSQ5WNYJrBxKEU_ppffGd2D4rrYxyf6JiN7lZEiQUZEH.06GSTY2FJNIg7f-A) <br>*Wednesday 1/12/22:* DBMS and Course Outline - [Lab 1: HTML+CSS](lab1/) |
 | Week 2 | *Monday 1/17/22:* MLK Day - No Class <br>*Wednesday 1/19/22:* Relational Model - Lab 2: Python + Flask |
 | Week 3 | *Monday 1/24/22:* SQL DDL <br>*Wednesday 1/26/22:* SQL DML - Lab 3: SQLite |
 | Week 4 | *Monday 1/31/22:* ER Model <br>*Wednesday 2/2/22:* Normalization - Lab 4: DB Design |

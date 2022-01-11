@@ -73,12 +73,12 @@ In the second half of the semester, students will work on a substantial group pr
 
 ### Engagement - 5%
 Students will receive an Engagement score based on their participation in the course. This will include both in-class participation during synchronous lectures and out-of-class activities. A diverse set of activities will count for increasing your engagement score, but you will get a 0 in this category unless you are actively contributing to our educational community. Here are some ways to get credit in this area:
- - Ask or answer questions during lecture (at most one point per week)
- - Ask or answer questions on Slack (at most one point per week)
+ - Ask or answer questions during lecture 
+ - Ask or answer questions on Slack 
  - Share useful resources on Slack
  - Participate in professional development activities shared by the professors
 
-Engagement points will be assigned at the discretion of the instructors; for example, typing a few words in slack or the lecture chat may not be sufficient to earn a point. For full credit, you must acquire 12 engagement points over the course of the semester.
+Engagement points will be assigned at the discretion of the instructors; for example, typing a few words in slack or the lecture chat may not be sufficient to earn a point. For full credit, you must acquire 15 engagement points over the course of the semester. In general you can acquire at most two per week, so you must be consistently engaged throughout the semester to achieve full credit.
 
 There will also be many opportunities to earn extra engagement points -- subscribe to Slack notifications to be sure you don't miss out! Asynchronous students are especially encouraged to pay attention and be active on Slack.
 
@@ -94,7 +94,7 @@ For deadlines related to the team project, **no late work will be accepted**. Th
 ### Illness and Absence Policy
 The instructors understand that students may need to be absent from class either due to illness or other personal situations. For personal situations such as being in a difficult time zone, internet connectivity issues, etc., students can watch lectures asynchronously and are still expected to participate via other means such as the course message board. 
 
-If students anticipate missing several classes such as due to illness, they should alert the instructor as soon as possible. In this case deadlines may be extended for students and participation requirements will be relaxed.
+If students anticipate missing one or more classes such as due to illness, they should alert the instructor as soon as possible. In this case deadlines may be extended for students and participation requirements will be relaxed.
 
 ---
 
