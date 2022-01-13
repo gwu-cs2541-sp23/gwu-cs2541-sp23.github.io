@@ -44,13 +44,13 @@ Note: Students taking this course are also expected to be taking CS2501 to meet 
 
 | Week | Content |
 |:---  |:--- |
-| Week 1 | *Monday 1/10/22:* [Intro to DB and Web Slides](slides/22-1-Course-Overview.pdf) - [Video](https://gwu-edu.zoom.us/rec/share/xxdQuu-8Afpx3M7fvoARjSQ5WNYJrBxKEU_ppffGd2D4rrYxyf6JiN7lZEiQUZEH.06GSTY2FJNIg7f-A) <br>*Wednesday 1/12/22:* DBMS and Course Outline - [Lab 1: HTML+CSS](lab1/) |
-| Week 2 | *Monday 1/17/22:* MLK Day - No Class <br>*Wednesday 1/19/22:* Relational Model - Lab 2: Python + Flask |
-| Week 3 | *Monday 1/24/22:* SQL DDL <br>*Wednesday 1/26/22:* SQL DML - Lab 3: SQLite |
-| Week 4 | *Monday 1/31/22:* ER Model <br>*Wednesday 2/2/22:* Normalization - Lab 4: DB Design |
-| Week 5 | *Monday 2/7/22:* More Normalization <br>*Wednesday 2/9/22:* Web Apps - Lab 5: Flask + SQL |
-| Week 6 | *Monday 2/14/22:* HW/Exam Review <br>*Wednesday 2/16/22:* Midterm - Lab: Midterm |
-| Week 7 | *Monday 2/21/22:* Presidents Day - No Class <br>*Wednesday 2/23/22:* Project Overview - Lab 7: AWS and VS Code |
+| Week 1 | *Monday 1/10/22:* [Intro to DB and Web Slides](slides/22-1-Course-Overview.pdf) - [Video](https://gwu-edu.zoom.us/rec/share/xxdQuu-8Afpx3M7fvoARjSQ5WNYJrBxKEU_ppffGd2D4rrYxyf6JiN7lZEiQUZEH.06GSTY2FJNIg7f-A) <br>*Wednesday 1/12/22:* [DBMS and Course Outline Slides](slides/https://blackboard.gwu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_363507_1&tool_id=_5071_1&tool_type=TOOL&mode=cpview&mode=reset.pdf) - [Video](https://blackboard.gwu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_363507_1&tool_id=_5071_1&tool_type=TOOL&mode=cpview&mode=reset)<br> - [Lab 1: HTML+CSS](lab1/)<br> - [HW1](/hw1/): Due Tues 1/18 |
+| Week 2 | *Monday 1/17/22:* MLK Day - No Class <br>*Wednesday 1/19/22:* Relational Model<br> - Lab 2: Python + Flask |
+| Week 3 | *Monday 1/24/22:* SQL DDL <br>*Wednesday 1/26/22:* SQL DML<br> - Lab 3: SQLite |
+| Week 4 | *Monday 1/31/22:* ER Model <br>*Wednesday 2/2/22:* Normalization<br> - Lab 4: DB Design |
+| Week 5 | *Monday 2/7/22:* More Normalization <br>*Wednesday 2/9/22:* Web Apps<br> - Lab 5: Flask + SQL |
+| Week 6 | *Monday 2/14/22:* HW/Exam Review <br>*Wednesday 2/16/22:* Midterm<br> - Lab: Midterm |
+| Week 7 | *Monday 2/21/22:* Presidents Day - No Class <br>*Wednesday 2/23/22:* Project Overview<br> - Lab 7: AWS and VS Code |
 | Week 8 <br> and beyond | Team project time!|
 
 </div>
