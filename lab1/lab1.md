@@ -35,8 +35,8 @@ To solve the lab, you must fully follow the Instructions to make a Hello World w
   - not graded, follow along as we discuss
 
 [Lab1 Student Bios](https://replit.com/team/cs2541s22/Lab1-Student-Bios): work in a small group to make a website with CSS styling
-  - **Team B**: DUE Tuesday 1/18 at 11:59PM (usually will be a shorter deadline)
+  - **Random Replit Teams**: DUE Tuesday 1/18 at 11:59PM (usually will be a shorter deadline)
 
-# Lab 1 Teams
+<!-- # Lab 1 Teams
 
-![Team list](lab1-teams.png)
+![Team list](lab1-teams.png) -->
