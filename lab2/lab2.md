@@ -21,3 +21,6 @@ permalink: /lab2/
 
 [Lab2 Advanced Routes and Templates](https://replit.com/team/cs2541s22/Lab2-Advanced-Routes-and-Templates): work in a small group to make a data driven student roster website
   - Activity 2: DUE Thursday 11:59PM
+
+[Lab2 Instructor Playground](https://replit.com/team/cs2541s22/Lab2-instructor-playground): More examples of Flask templates and routes
+  - not graded, may help with finishing the lab
