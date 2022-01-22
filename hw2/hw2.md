@@ -17,11 +17,11 @@ For this assignment you must build a student roster application that shows a lis
 
 **Deadline:** Friday January 28th 11:59PM. Remember to hit *Submit!*
 
-**Hint:** The [Lab 2 slides and Instructor Playground Replit](/lab2) have a lot of useful information on using Flask templates!
+**Hint:** The [Lab 2 slides and Instructor Playground Replit](/lab2) have a lot of useful information on using Flask templates! You should be using template syntax for `if` statements, `for` loops, and access to dictionary values!
 </blockquote>
 
 ## Requirements
-Your website should contain two types of pages:
+Your website should contain three types of pages:
 
  1. Home page (`/`): Should display a list of students in the class by name. Clicking on a student's name should take them to a student data page
  2. Student Data page: This should display a report about a specific student including:
@@ -30,8 +30,9 @@ Your website should contain two types of pages:
     - Email address
     - Engagement points by week - each student has a list representing how many engagement points they have earned per week over the course of 10 weeks. You should display each entry and color code it as follows: green if they received 2 points, orange for 1 point, or red for 0 points
     - Total engagement points - display the total points they have earned over all ten weeks
+3. Author page (`/author`): This page should simply return your full name to help with grading.
 
-Your site must use Python Flask Templates to display these two types of pages.  You must use CSS to change the default styling, and you should use CSS classes to change the color of engagement point entries. Let your creativity guide you.
+Your site must use Python Flask Templates to display the top two types of pages.  **You must use CSS** to change the default styling, and you should use CSS classes to change the color of engagement point entries. Let your creativity guide you.
 
 ## Accessing Student Data
 
