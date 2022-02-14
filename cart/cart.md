@@ -45,7 +45,8 @@ You have to complete most of the requirements for a level before you qualify for
 - [ ] The user can login, but not create a new account.
   - [ ] Users who are not in the DB can't login.
   - [ ] Must include a sample user named `testuser` with password `testpass`
-- [ ] The logged in user can view, add to, edit, check out or delete the cart.
+- [ ] The logged in user can view, add to, edit, check out or delete their cart.
+  - [ ] The cart should be stored as a session variable.
 - [ ] The database is updated when a user checks out.
 - [ ] The store doesn't let a user buy negative amounts or more than is in the inventory.
 
