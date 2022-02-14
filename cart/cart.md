@@ -7,7 +7,8 @@ permalink: /cart/
 ## Description
 This homework will have you develop a web store application.  **This is an individual** assignment; you may discuss general Python/SQL techniques with other students, but all code that you write must be your own! You are expected to implement the following "from scratch", i.e., you may use the basic Flask libraries, templating abilities, etc, but you may not use 3rd party libraries to provide significant portions of functionality such as user logins.
 
-**Deadline:** Monday 3/8/22, 11:59PM
+  - **Deadline:** Monday 3/8/22, 11:59PM
+  - **Replit project:** [https://replit.com/team/cs2541s22/HW-Shopping-Cart](https://replit.com/team/cs2541s22/HW-Shopping-Cart)
 
 > This is an **individual** project. You may not share code with other students!
 
