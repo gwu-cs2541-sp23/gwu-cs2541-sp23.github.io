@@ -52,8 +52,15 @@ Note: Students taking this course are also expected to be taking CS2501 to meet 
 | Week 6 | *Monday 2/14/22:* [Web Apps Slides](slides/22-6-shopping-cart.pdf) - [Video](https://blackboard.gwu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_363507_1&tool_id=_5071_1&tool_type=TOOL&mode=cpview&mode=reset) <br>*Wednesday 2/16/22:* [Exam Review Lecture slides](slides/22-6-exam-review.pdf) - [Video](https://blackboard.gwu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_363507_1&tool_id=_5071_1&tool_type=TOOL&mode=cpview&mode=reset)<br> - [Lab 6: Sessions](slides/22-lab6.pdf) - submit [Lab 6 replit](https://replit.com/team/cs2541s22/Lab6-Login-Page) by Friday 2/25 <br> - [Shopping Cart Mini Project](/cart) due 3/8 |
 | Week 7 | *Monday 2/21/22:* Presidents Day - No Class <br>*Wednesday 2/23/22:* EXAM<br> - Lab: EXAM |
 | Week 8 | *Monday 2/28/22:* [Cloud Scale Apps Slides](slides/22-8-cloud-data.pdf) - [Video](https://blackboard.gwu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_363507_1&tool_id=_5071_1&tool_type=TOOL&mode=cpview&mode=reset) <br>*Wednesday 3/2/22:* [Project Overview Slides](slides/22-8b-project.pdf) - [Video](https://blackboard.gwu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_363507_1&tool_id=_5071_1&tool_type=TOOL&mode=cpview&mode=reset)<br> - [Lab 7: Sessions](slides/22-lab7.pdf) - Gwordle Lab: [Frontend](https://replit.com/team/cs2541s22/gwordle-front), [Backend](https://replit.com/team/cs2541s22/gwordle-back), [Integrated](https://replit.com/team/cs2541s22/gwordle-integrated) Replits |
-| Week 9 | *Monday 3/7/22:* Agile Development <br>*Wednesday 3/9/22:* Team Work<br> - Lab 8: Gitting Started |
-| Week 10 <br> and beyond | Team project time!|
+| Week 9 | *Monday 3/7/22:* [Agile Development Slides](slides/22-9a-agile.pdf) - [Video](https://blackboard.gwu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_363507_1&tool_id=_5071_1&tool_type=TOOL&mode=cpview&mode=reset) <br>*Wednesday 3/9/22:* Team Work - [Video](https://blackboard.gwu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_363507_1&tool_id=_5071_1&tool_type=TOOL&mode=cpview&mode=reset)<br> - [Lab 8: Gitting Started](22-lab8.pdf) - [Phase 1 Git Rep](https://classroom.github.com/a/Zu4anc6u) - Create a board on [Trello](https://trello.com) |
+| Week 10 | Spring Break! |
+| Week 11 | *Monday 3/21/22:* DB Internals <br>*Wednesday 3/23/22:* Lab - Mentor Meeting |
+| Week 12 | *Monday 3/28/22:* RDBMS Challenges <br>*Wednesday 3/30/22:* Lab - Mentor Meeting |
+| Week 13 | *Monday 4/4/22:* NoSQL <br>*Wednesday 4/6/22:* Phase 1 - due in class |
+| Week 14 | *Monday 4/11/22:* Guest Lecture <br>*Wednesday 4/13/22:* Lab - Mentor Meeting |
+| Week 15 | *Monday 4/18/22:* Relational Algebra <br>*Wednesday 4/20/22:* Lab - Mentor Meeting |
+| Week 16 | *Monday 4/25/22:* Indexes / Optimzation <br>*Wednesday 4/27/22:* Mentor Meeting - (Designated Monday) |
+|Finals Week | Phase 2 Due! | 
 
 </div>
 
