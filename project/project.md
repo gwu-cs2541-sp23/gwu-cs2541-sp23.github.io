@@ -87,7 +87,14 @@ Note that not all teammates are guaranteed to get the same grade. Your grade wil
 ---
 
 ### Help Using AWS / VS Code
+My videos:
+ - [AWS RDS: How to setup MySQL](https://youtu.be/cL8u9mMCJsQ)
+ - [VS Code: MySQL extension](https://youtu.be/1FSHAsP20cg)
+ - [Python Virtual Environments / Installing libraries](https://youtu.be/7CGtFr0XYE8)
+ - [Python + MySQL](https://youtu.be/53ToK78EsmU)
+ - [MySQL vs SQLite](https://youtu.be/dYzSWSMD3Tk) and [sample code git repo](https://github.com/cs2541-22s/flask-sample-mysql)
 
+Docs:
  - [VS Code Guide](https://docs.google.com/document/d/1tKK1miWh-AS9Q-j2JwAACkYMEsM8eGICDMhSWYCwQ4o/edit?usp=sharing)
  - [VS Code's Flask Tutorial](https://code.visualstudio.com/docs/python/tutorial-flask) - Great info on using flask, the VS Code debugger, etc.
 
