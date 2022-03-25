@@ -37,7 +37,7 @@ plugins:
 header_pages:
 # - examples/sample.md
  - syllabus.md
-#  - project.md
+ - project/project.md
 #  - hall.md
 
 
