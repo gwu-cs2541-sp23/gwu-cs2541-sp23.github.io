@@ -20,6 +20,7 @@ Project Module Specifications:
  - March 23: Mentor Check In
  - March 30: Phase 1 initial demo
  - April 6: Phase 1 DUE in class
+ - April 11: Phase 1 Report due 11:59PM
 
 **Mentor Status Checks**
   - At each status check we will check your progress and check your progress so far, the clarify of your plan for next steps, and how well your team is working together.
@@ -30,9 +31,19 @@ Project Module Specifications:
   - 55% - Complete functionality
   - 5% - Overall usability / look and feel (this will have higher weight in phase 2)
 
-**Phase 1 Project Report:** Your phase 1 report should include an ER or SQL Table Diagram with a description of the design decisions for your DB structure. You should specify what normal form you believe your tables meet. **Your report will be due the Monday after the Phase 1 demo.**
+**Phase 1 Demo:** Full details of the Demo [are listed here](/project/phase-1)
 
-{% comment %}
+**Phase 1 Project Report:** Your phase 1 report should include:
+  - An ER or SQL Table Diagram updated to reflect your final design
+  - An explanation for what normal form you believe your tables meet
+  - A short justification of your key design choices (0.5 - 1 page)
+  - A list of assumptions made for your design
+  - A list of missing functionality from your final implementation
+  - A work breakdown describing the key responsibilities of each team member
+ 
+Your report must be committed and pushed to your repository by 11:59PM on Monday April 11th. It should be in a file named `Readme.md` or `Readme.pdf` in the `main` branch. 
+
+
 ## Phase 2 Project Types
 
 You will be working on **one** of these two types of projects:
@@ -51,7 +62,9 @@ Type 2 Integration:
 **Both Types:**
  - We expect you to create a better looking and more usable website compared to phase 1
  - A portion of your grade will be based on any "extra features" you complete that go beyond the spec
- - The most impressive projects will be added to this website's [Hall of Fame](/hall).
+ - The most impressive projects will be added to this website's [Hall of Fame](/hall). Check [last year's](https://cs2541-21s.github.io/hall/) for some inspiration.
+
+{% comment %}
 
 ### Project Report
 You must submit a short written report about your project containing the following sections:
