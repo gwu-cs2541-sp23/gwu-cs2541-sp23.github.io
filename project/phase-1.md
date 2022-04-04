@@ -20,6 +20,44 @@ The demos will be conducted during the Wednesday Lecture session from 12:45pm—
   - Your system must work correctly, and must meet all the workflow requirements that were specified. So make sure you get the system working correctly and make sure you do a lot of error checking and testing.
   - Bells and whistles are not required at this point in the project. So focus on getting the basic applications working for now, and if time permits you can work on improving the visuals or style. 
 
+## Design Questions
+After we test the functionality of your application, we will ask you a few questions about your design. Since we want all team members to have basic knowledge of all aspects of the project, questions will be directed to a specific team member, and others should not answer (even if they were the person who wrote that code). You should be able to give a clear answer, and point us to relevant code as needed.
+
+Some example questions are:
+
+REGS
+  - What errors do you check for when students register for classes? How do you check for those errors?
+  - When a user logs in, what do you store in your session and why?
+
+{% comment %}
+  - When a graduate student ultimately graduates, could you foresee an easy way to change a parameter in your database that identifies such change?
+  - How do you store a user's permissions/roles in your database, and where are some of the places where it is important to identify their permissions?
+  - How are student's grades handled? How do you convert letter grades into an official GPA for your transcript
+  - How do you format a student's schedule of courses? Is this a long-term solution? Could this algorithm apply to classes that have a non-standard time block. How do you store a student's schedule in your database?
+  - On login, what information did you find important to store within session variables?
+{% endcomment %}
+
+ADS
+ - How did you choose to store different users in your database and why? (i.e. are “students”, “faculty”, etc. their own tables?)
+ - When a user logs in, what do you store in your session and why?
+
+{% comment %}
+ - How did you choose to store advisor-advisee relationships in your database and why?
+ - How did you choose to perform the Form 1 audit?
+ - Are you storing a student’s GPA in your database or do you re-calculate every time you want to display it?
+
+{% endcomment %}
+
+APPS
+ - How did you choose to store application data in your database and why? Will any of your logic have to change for phase 2 to support multiple recommenders?
+ - When a user logs in, what do you store in your session and why?
+
+{% comment %}
+ - How did you choose to store reviews in your database? Will your logic have to change for phase 2 with multiple reviewers?
+ - How did you store the status of an applicant’s application items (i.e. transcript, recommendation letter, and decision status)?
+ - What kind of error checking did you do for a student’s application?
+{% endcomment %}
+
 ## Incomplete Projects
 If your project does not contain the full Phase 1 functionality, it may be considered incomplete. This will affect what you are assigned to do in Phase 2. You will still need to demo whatever functionality you have working at the Phase 1 deadline.
 
