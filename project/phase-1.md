@@ -13,7 +13,7 @@ On the Phase 1 due date by the start of class. You will need to submit (1) your 
   - **YOU MAY NOT MAKE ANY EDITS TO YOUR CODE AFTER CLASS STARTS!**
 
 ## Schedule and Evaluation of Demos
-The demos will be conducted during the Monday Lecture session from 12:45pm—2:00pm. 
+The demos will be conducted during the Wednesday Lecture session from 12:45pm—3:25pm. 
   <!-- - Each team will be assigned a time slot (and an evaluator)– your team must be ready with your main webpage open and running. You should join the class Zoom and enter your group's breakout room 10 minutes before your start time. IF the previous team demo is running significantly beyond its scheduled time, we will notify you on slack and/or email. -->
   - ALL team members have to be present for the demo -- questions will be asked of all team members. Failure to attend the demo without prior approval will result in a grade of zero for your Phase 1 -- no exceptions.
   - The project testing/demo will require you to go through the entire workflow of your system, and we will be testing it for correctness and completeness. We will take you through specific steps and you are required to follow our directions. (This implies that you cannot come up with your own "script" for demo-ing your system.)
