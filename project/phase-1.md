@@ -72,11 +72,6 @@ Listed below is the state that you must get to after a Reset operation. If you h
 ### REGS Starting State
 
   - Course schedule must be exactly what is specified in the project description.
-  - Unused IDs: Make sure the following student names and IDs are **not** used in your database start state/data. (The names are listed as Last name, First name and the ID)
-    - Coltrane, John with ID 11111111
-    - Davis, Miles with ID 22222222
-    - Monk, Thelonious with ID 33333333
-    - Getz, Stan with ID 44444444
   - Students:  There must be two *MS*  graduate students entered into the system with the student numbers and other data as specified below:
     - Holiday, Billie with ID 88888888 and registered for CSCI 6461 and CSCI 6212. Provide us with their system login info (so we can test their registration transactions).
     - Krall, Diana with ID 99999999 and no courses registered.  Provide us with their system login info (so we can test their registration transactions).  
@@ -98,11 +93,6 @@ Listed below is the state that you must get to after a Reset operation. If you h
 ### ADS Starting State
 
   - Course schedule must be exactly what is specified in the project description.
-  - Unused IDs: Make sure the following student names and IDs are **not** used in your database start state/data. (The names are listed as Last name, First name and the ID)
-    - Coltrane, John with ID 11111111
-    - Davis, Miles with ID 22222222
-    - Monk, Thelonious with ID 33333333. 
-    - Getz, Stan with ID 44444444
   - Students:  These two **MS** graduate students and one PhD student (if supported by your code) must entered into the system with the student numbers and other data as specified below but they have NOT submitted their Form 1:
     - McCartney, Paul with ID 55555555. Provide us with their system login info (so we can test their registration transactions). Has registered for and completed CSCI 6221,6212,6461,6232,6233 with all A's. Has registered and completed CSCI6241, 6246, 6262, 6283, 6242 with all B's.
     - Harrison, George with ID 66666666  -- provide us with their system login info.  He has registered for and completed ECE6242 with a C grade, and CSCI 6221, 6461,6212, 6232, 6233, 6241,6242, 6283, 6284 with all B's on the CSCI courses.
