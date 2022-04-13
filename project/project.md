@@ -49,10 +49,10 @@ Your report must be committed and pushed to your repository by 11:59PM on Monday
 You will be working on **one** of these two types of projects:
 
 Type 1 Builder:
- - Implement REGS or APPS component (whichever you were assigned)
-   - APPS: No PhD apps or Sys Admin role required
-   - REGS: No user creation, no PhD students, no Sys Admin required
-   - If the spec for your component talks about extra features to add in phase 2 (such as more reports for REGS), you *do not* need to complete them.
+ - Implement a simplified version of the REGS component
+   - You are not required to implement the Sys Admin or Grad Secretary roles described in the REGS spec. Instead of the Grad Secretary, you should allow Faculty users to change grades multiple times. 
+   - If the spec for your component talks about extra features to add in phase 2 (such as more reports or PhD students), you *do not* need to complete them.
+   - You are still expected to add something "extra" to your project - a new feature, a nicer UI, or some technical extra. However, this will be a smaller part of your grade compared to the Integration projects.
 
 Type 2 Integration:
  - Combine the components implemented by your teammates in phase 1 (do not build any new components from scratch)
