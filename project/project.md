@@ -44,7 +44,7 @@ Project Module Specifications:
 Your report must be committed and pushed to your repository by 11:59PM on Monday April 11th. It should be in a file named `Readme.md` or `Readme.pdf` in the `main` branch. 
 
 
-## Phase 2 Project Types
+## Phase 2 
 
 You will be working on **one** of these two types of projects:
 
@@ -64,36 +64,36 @@ Type 2 Integration:
  - A portion of your grade will be based on any "extra features" you complete that go beyond the spec
  - The most impressive projects will be added to this website's [Hall of Fame](/hall). Check [last year's](https://cs2541-21s.github.io/hall/) for some inspiration.
 
-{% comment %}
+### Phase 2 Demo
+Details of the [phase 2 demo are here](/project/phase-2).
 
-### Project Report
+### Phase 2 Project Report
 You must submit a short written report about your project containing the following sections:
-
-  - **Project Pitch**: ~2 paragraphs describing your overall project to someone who knows nothing about it. Include a representative screenshot (or animated gif) of your site.
+  - **DB Design:** An ER or SQL Table Diagram updated to reflect your final design and an explanation for what normal form you believe your tables meet
+  - **Visual Overview:** Include screenshots, an animated gif, or short video showing a feature from each component included in your project (eg APPs, REGs, ADV). It does not need to be an exhaustive video of your functionality, just enough to remind us of how it works/looks.
+  - **Design Justification:** For Integration projects this should focus on how you connected your components together. For Builder projects it should justify your key design decisions. (0.5 - 1 page)
   - **Special Features**: ~2 sentences describing each extra feature you added beyond the spec
-  - **DB Schema**: Show schema for 2-3 tables and justify your design. You should focus on the most important/interesting aspects (2-3 paragraphs)
   - **Work Breakdown**: List teammates and specify the aspects of the project they worked on
 
-Your report should be submitted as a file named  `report.md` in your repository.
 
-Your report is due by 3pm Tuesday May 11th (earlier if possible!). If you submit your report *after* you do your demo, you must create an issue and tag `@twood02` to notify us for grading.
+Your report should be submitted as a file named  `final-report.md` or `final-report.pdf` in your repository.
+
+Your report is due by 11:59pm Friday May 6th (earlier if possible!). If you submit your report *after* you do your demo, please create an issue and tag `@twood02` to notify us for grading.
 
 ### Phase 2 Grading
-Each team will need to schedule a grading appointment between May 4 - May 11th. *Not all teams will be able to delay until the 11th!*
+Each team will need to schedule a grading appointment on May 2nd or May 6th. 
 
 During your appointment we will walk through a script to test your application similar to phase 1. We will also be asking you deeper questions about your project's design and implementation. After we test your basic functionality you will have a chance to show off any extra features you added.
 
-You will also need to submit a short report about your project's design. Details will be added here soon.
-
-**Approximate Grading Rubric:** This is not the final grading rubric, but it gives you an idea what to expect:
+**Approximate Grading Rubric:** This may not be the final grading rubric, but it gives you an idea what to expect:
   - 30% - Evidence that you are making progress each week and contributing your share of the project (see below)
   - 10% - Project report
   - 40% - Complete functionality
-  - 10% - Overall usability / look and feel
-  - 10% - Extra features of your choice (judged based on difficulty and innovativeness)
+  - 15% - Overall usability / look and feel
+  - 5% - Extra features of your choice (judged based on difficulty and innovativeness). Truly amazing extra features may earn additional bonus points.
 
 Note that not all teammates are guaranteed to get the same grade. Your grade will be adjusted based on your contribution to the project as measured by git commits, mentor status checks, team member surveys, and your ability to answer questions about your project.
-{% endcomment %}
+
 
 ---
 ## AWS / Python / SQL Tips
