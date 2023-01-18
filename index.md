@@ -45,7 +45,7 @@ Note: Students taking this course are also expected to be taking CS2501 to meet 
 | Week | Content |
 |:---  |:--- |
 | Week 1 | *Wednesday 1/18/23:* Intro to DB <br> - [Lab 1: HTML+CSS](lab1/)<br> - [HW1](/hw1/): Due Tues 1/24 |
-| Week 2 | *Monday 1/23/23:* DBMS and Course Outline Lecture<br>*Wednesday 1/25/22:* Relational Model <br> - [Lab 2: Python + Flask](lab2/)<br> - HW2: Due Fri 1/28 --> |
+| Week 2 | *Monday 1/23/23:* DBMS and Course Outline Lecture<br>*Wednesday 1/25/22:* Relational Model <br> - [Lab 2: Python + Flask](lab2/)<br> - HW2: Due Fri 1/28 |
 | Week 3 | *Monday 1/24/22:* SQL DDL <br>*Wednesday 1/26/22:* SQL DML<br> - [Lab 3: SQLite](lab3/)<br> - HW3 - Due Tues 2/1 11:59PM |
 | Week 4 | *Monday 1/31/22:* ER Model <br>*Wednesday 2/2/22:* Normalization <br> - [Lab 4: DB Design](slides/22-lab4.pdf) Slides - submit [Replit](https://replit.com/team/cs2541s22/Lab4-Simple-Tables) Due Sat 2/5 11:59PM |
 | Week 5 | *Monday 2/7/22:* Functional Dependencies <br>*Wednesday 2/9/22:* Decomposition and BCNF <br> - [Lab 5: Flask + SQL Slides](slides/22-lab5.pdf) - submit [Lab 5 Replit](https://replit.com/team/cs2541s22/Lab5-Live-Exercise) by Sun 2/13<br> - [HW 5: Normalization](https://replit.com/team/cs2541s22/HW5-Normalization)  due Tues 2/15 - [Normalization Reference Sheet](/slides/sheet-normal-forms.pdf) |
