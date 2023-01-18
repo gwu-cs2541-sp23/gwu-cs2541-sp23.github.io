@@ -45,11 +45,11 @@ Note: Students taking this course are also expected to be taking CS2501 to meet 
 | Week | Content |
 |:---  |:--- |
 | Week 1 | *Wednesday 1/18/23:* Intro to DB <br> - [Lab 1: HTML+CSS](lab1/)<br> - [HW1](/hw1/): Due Tues 1/24 |
-| Week 2 | *Monday 1/23/23:* DBMS and Course Outline <br>*Wednesday 1/25/23:* Relational Model Lecture <br> - Lab 2: Python + Flask<br> - HW2: Due Fri 1/28 |
-| Week 3 | *Monday 1/30/23:* SQL DDL <br>*Wednesday 2/1/23:* SQL DML <br> - Lab 3: SQLite<br> - HW3 - Due Tues 2/1 11:59PM |
-| Week 4 | *Monday 2/6/23:* ER Model <br>*Wednesday 2/8/23:* Normalization <br> - Lab 4: DB Design Due Sat 2/5 11:59PM |
-| Week 5 | *Monday 2/13/23:* Functional Dependencies <br>*Wednesday 2/15/23:* Decomposition and BCNF <br> - Lab 5: Flask + SQL by Sun 2/13<br> - HW 5: Normalization due Tues 2/15 - [Normalization Reference Sheet](/slides/sheet-normal-forms.pdf) |
-| Week 6 | *Monday 2/20/23:* Pesidents Day - No Class <br>*Wednesday 2/22/23:* Web Apps  <br> - Lab 6: Sessions <br> - Shopping Cart Mini Project due 3/8 |
+| Week 2 | *Monday 1/23/23:* DBMS and Course Outline <br>*Wednesday 1/25/23:* Relational Model Lecture <br> - Lab 2: Python + Flask<br> - HW2: Due Fri 2/3 |
+| Week 3 | *Monday 1/30/23:* SQL DDL <br>*Wednesday 2/1/23:* SQL DML <br> - Lab 3: SQLite<br> - HW3 - Due Tues 2/7 11:59PM |
+| Week 4 | *Monday 2/6/23:* ER Model <br>*Wednesday 2/8/23:* Normalization <br> - Lab 4: DB Design Due Sat 2/11 11:59PM |
+| Week 5 | *Monday 2/13/23:* Functional Dependencies <br>*Wednesday 2/15/23:* Decomposition and BCNF <br> - Lab 5: Flask + SQL by Sun 2/19<br> - HW 5: Normalization due Tues 2/21 - [Normalization Reference Sheet](/slides/sheet-normal-forms.pdf) |
+| Week 6 | *Monday 2/20/23:* Presidents Day - No Class <br>*Wednesday 2/22/23:* Web Apps  <br> - Lab 6: Sessions <br> - Shopping Cart Mini Project due 3/10 |
 | Week 7 | *Monday 2/27/23:* Exam Review <br>*Wednesday 3/1/23:* EXAM<br> - Lab: EXAM |
 | Week 8 | *Monday 3/6/23:* Cloud Scale Apps <br>*Wednesday 3/8/23:* Project Overview <br> - Lab 7: Sessions - Gwordle Lab |
 | Week 9 | Spring Break! |
