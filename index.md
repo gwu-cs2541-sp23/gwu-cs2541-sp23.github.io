@@ -5,8 +5,8 @@ layout: home
 <div class="wrapper" markdown="0"><div class="footer-col-wrapper">
 <div class="footer-col two-col-1">
     <ul class="contact-list">
-        <li><a href="https://faculty.cs.gwu.edu/timwood"><b>Prof. Tim Wood</b></a></li>
-        <li><a href="mailto:timwood@gwu.edu">timwood@gwu.edu</a></li>
+        <li><a href="https://www.cs.seas.gwu.edu/james-taylor"><b>Prof. James Taylor</b></a></li>
+        <li><a href="mailto:jrt@gwu.edu">jrt@gwu.edu</a></li>
         <li>Office Hours: TBD</li>
         <li>Class: Mondays 12:45-2pm, Wednesdays 12:45-3:25PM</li>
         <li><i>Class and Office hours will be on Zoom for the first week of the semester!</i></li>
@@ -15,9 +15,9 @@ layout: home
 <div class="footer-col two-col-2">
     <ul class="contact-list">
         <li><b>Support Staff:</b></li>
-        <li>Deep Bhattacharya, Joan Wu,</li>
-        <li>Catherine Meadows, Ethan Baron</li>
-        <li>Jett Jacobs, and Alex Coleman</li>
+        <li><b>Ratnadeep Bhattacharya, Catherine Meadows</b></li>
+	<li><b>Dania Abdalla, Jet Jacobs, Samantha Kusner</b></li>
+	<li><b>Viraj Prakash</b></li>
     </ul>
     </div>
 </div></div>

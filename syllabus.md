@@ -4,12 +4,12 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-**Instructors:** [Prof. Tim Wood](mailto:timwood@gwu.edu) 
+**Instructors:** [Prof. James Taylor](mailto:jrt@gwu.edu) 
 
-**Support Staff:** Deep Bhattacharya, Joan Wu, Catherine Meadows, Ethan Baron, Jett Jacobs, and Alex Coleman
+**Support Staff:** Deep Bhattacharya, Cat Meadows, Dania Abdalla, Jet Jacobs, Samantha Kusner, and Viraj Prakash
 
 **Time/Place:**
-  * **Class meets Mondays 12:45-2pm, Wednesdays 12:45-3:25PM on ZOOM or in SEH 1400**
+  * **Class meets Mondays 12:45-2pm, Wednesdays 12:45-3:25PM on Blackboard Collaborate or in SEH 1400**
 
 **Office Hours:**
   * TBA
@@ -17,7 +17,7 @@ permalink: /syllabus/
 **Course prerequisites:**
   * CSci 1311, 1112, and Co-requisite of CSci2113
 
-**Website:** [https://cs2541-22s.github.io/](https://cs2541-22s.github.io/)
+**Website:** [https://gwu-cs2541-sp23.github.io/](https://gwu-cs2541-sp23.github.io/)
 
 ## Course Description
 
