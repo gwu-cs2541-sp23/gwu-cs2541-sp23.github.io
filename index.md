@@ -44,21 +44,21 @@ Note: Students taking this course are also expected to be taking CS2501 to meet 
 
 | Week | Content |
 |:---  |:--- |
-| Week 1 | *Monday 1/16/22:* Intro to DB <br>*Wednesday 1/18/22:* DBMS and Course Outline <br> - [Lab 1: HTML+CSS](lab1/)<br> - [HW1](/hw1/): Due Tues 1/18 |
-| Week 2 | *Monday 1/23/22:* MLK Day - No Class <br>*Wednesday 1/19/22:* Relational Model Lecture <br> - Lab 2: Python + Flask<br> - HW2: Due Fri 1/28 |
-| Week 3 | *Monday 1/24/22:* SQL DDL <br>*Wednesday 1/26/22:* SQL DML <br> - Lab 3: SQLite<br> - HW3 - Due Tues 2/1 11:59PM |
-| Week 4 | *Monday 1/31/22:* ER Model <br>*Wednesday 2/2/22:* Normalization <br> - Lab 4: DB Design Due Sat 2/5 11:59PM |
-| Week 5 | *Monday 2/7/22:* Functional Dependencies <br>*Wednesday 2/9/22:* Decomposition and BCNF <br> - Lab 5: Flask + SQL by Sun 2/13<br> - HW 5: Normalization due Tues 2/15 - [Normalization Reference Sheet](/slides/sheet-normal-forms.pdf) |
-| Week 6 | *Monday 2/14/22:* Web Apps <br>*Wednesday 2/16/22:* Exam Review <br> - Lab 6: Sessions <br> - Shopping Cart Mini Project due 3/8 |
-| Week 7 | *Monday 2/21/22:* Presidents Day - No Class <br>*Wednesday 2/23/22:* EXAM<br> - Lab: EXAM |
-| Week 8 | *Monday 2/28/22:* Cloud Scale Apps <br>*Wednesday 3/2/22:* Project Overview <br> - Lab 7: Sessions - Gwordle Lab |
-| Week 9 | *Monday 3/7/22:* Agile Development <br>*Wednesday 3/9/22:* Team Work <br> - Lab 8: Gitting Started - Phase 1 Git Rep |
-| Week 10 | Spring Break! |
-| Week 11 | *Monday 3/21/22:* DB Internals <br>*Wednesday 3/23/22:* Lab: Sqlite to MySQL <br> - Mentor Meeting |
-| Week 12 | *Monday 3/28/22:* RDBMS Challenges <br>*Wednesday 3/30/22:* Lab <br> - Mentor Meeting |
-| Week 13 | *Monday 4/4/22:* NoSQL <br>*Wednesday 4/6/22:* Phase 1<br> - due in class |
-| Week 14 | *Monday 4/18/22:* Relational Algebra <br>*Wednesday 4/20/22:* Lab<br> - Mentor Meeting |
-| Week 15 | *Monday 4/25/22:* Indexes / Optimization <br>*Wednesday 4/27/22:* Mentor Meeting<br> - (Designated Monday) |
+| Week 1 | *Wednesday 1/18/23:* Intro to DB <br> - [Lab 1: HTML+CSS](lab1/)<br> - [HW1](/hw1/): Due Tues 1/24 |
+| Week 2 | *Monday 1/23/23:* DBMS and Course Outline <br>*Wednesday 1/25/23:* Relational Model Lecture <br> - Lab 2: Python + Flask<br> - HW2: Due Fri 1/28 |
+| Week 3 | *Monday 1/30/23:* SQL DDL <br>*Wednesday 2/1/23:* SQL DML <br> - Lab 3: SQLite<br> - HW3 - Due Tues 2/1 11:59PM |
+| Week 4 | *Monday 2/6/23:* ER Model <br>*Wednesday 2/8/23:* Normalization <br> - Lab 4: DB Design Due Sat 2/5 11:59PM |
+| Week 5 | *Monday 2/13/23:* Functional Dependencies <br>*Wednesday 2/15/23:* Decomposition and BCNF <br> - Lab 5: Flask + SQL by Sun 2/13<br> - HW 5: Normalization due Tues 2/15 - [Normalization Reference Sheet](/slides/sheet-normal-forms.pdf) |
+| Week 6 | *Monday 2/20/23:* Pesidents Day - No Class <br>*Wednesday 2/22/23:* Web Apps  <br> - Lab 6: Sessions <br> - Shopping Cart Mini Project due 3/8 |
+| Week 7 | *Monday 2/27/23:* Exam Review <br>*Wednesday 3/1/23:* EXAM<br> - Lab: EXAM |
+| Week 8 | *Monday 3/6/23:* Cloud Scale Apps <br>*Wednesday 3/8/23:* Project Overview <br> - Lab 7: Sessions - Gwordle Lab |
+| Week 9 | Spring Break! |
+| Week 10 | *Monday 3/20/23:* Agile Development <br>*Wednesday 3/22/23:* Team Work <br> - Lab 8: Gitting Started - Phase 1 Git Rep |
+| Week 11 | *Monday 3/27/23:* DB Internals <br>*Wednesday 3/29/23:* Lab: Sqlite to MySQL <br> - Mentor Meeting |
+| Week 12 | *Monday 4/3/23:* RDBMS Challenges <br>*Wednesday 4/5/23:* Lab <br> - Mentor Meeting |
+| Week 13 | *Monday 4/10/23:* NoSQL <br>*Wednesday 4/12/23:* Phase 1<br> - due in class |
+| Week 14 | *Monday 4/17/23:* Relational Algebra <br>*Wednesday 4/19/23:* Lab<br> - Mentor Meeting |
+| Week 15 | *Monday 4/24/23:* Indexes / Optimization <br>*Wednesday 4/26/23:* Mentor Meeting<br> - (Designated Monday) |
 |Finals Week | Phase 2 Due! | 
 
 </div>
