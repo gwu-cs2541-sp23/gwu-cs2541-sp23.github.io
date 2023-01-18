@@ -49,7 +49,7 @@ This feature is probably what makes Python most popular for being a quick and ea
 The code below will crash during the third print statement. If you tried to do something similar in Java, you would have caught the error at compile time, possibly before releasing a buggy program.
 
 ```python
-# https://repl.it/@twood02/db-python-types
+# https://repl.it/@semajrolyat/db-python-types
 a = "hello "
 b = "world"
 c = "10"
@@ -65,7 +65,7 @@ print(a + d)
 Here's an example of a Python Class. It is not so different from Java, but the `self` syntax can be a bit confusing since you need to remember to include it as the first argument for any class methods. You can think of it as a reference passed to methods of an object that refers back to the object itself (like the `this` keyword in Java).  The `__init__` function is the syntax for defining a class constructor. Using object methods and data fields looks just like Java, but be aware that everything is public!
 
 ```python
-# https://repl.it/@twood02/db-PersonClass
+# https://repl.it/@semajrolyat/db-PersonClass
 class Customer:
   def __init__(self, name, age):
     self.name = name
@@ -84,7 +84,7 @@ There are two common pitfalls when using libraries in Python. First, installing 
 A second point of confusion for new Python users is that there are several ways to import modules and the functions within them.  Suppose you want to work with the constant `pi` defined in Python's `math` package. All of these approaches are valid code:
 
 ```python
-# https://repl.it/@twood02/db-Imports
+# https://repl.it/@semajrolyat/db-Imports
 import math
 print(math.pi)
 
@@ -142,7 +142,7 @@ There are many ways to learn Python. Here are two approaches. If you find other 
 ### Track 1: For Visual Learners 
 I have gathered a [set of short python tutorial videos](/hw1/videos/). Each video is ~5 minutes long, and they will take you through the basics of python syntax, control structures, and data structures. 
 
-Sit back and watch, but keep in mind that it is very difficult for your brain to retain information unless you are active in your learning. I strongly suggest trying out some of the commands as you watch [in this practice Replit](https://replit.com/team/cs2541s22/HW1-Practice-Area). You should also supplement this with looking at the Full Speed Python document below!
+Sit back and watch, but keep in mind that it is very difficult for your brain to retain information unless you are active in your learning. I strongly suggest trying out some of the commands as you watch [in this practice Replit](https://replit.com/@gwucs2541sp23/HW1-Practice-Area). You should also supplement this with looking at the Full Speed Python document below!
 
 There are many other python tutorials and videos throughout the internet, but these are by far the best I have found in terms of quality of content and conciseness. If you find better ones, let me know.
 
@@ -158,7 +158,7 @@ For Google's thorough introduction to Python (minimal programming experience req
 
 ## Assignment: Python Syntax and Data Structures
 > This assignment must be solved **on your own** and will be submitted through Replit. 
->   - Replit Project link: [https://replit.com/team/cs2541s22/HW1-Python-Practice](https://replit.com/team/cs2541s22/HW1-Python-Practice)
+>   - Replit Project link: [https://replit.com/@gwucs2541sp23/HW1-Python-Practice](https://replit.com/@gwucs2541sp23/HW1-Python-Practice)
 >   - Due: Tuesday January 18, 11:59PM
 
 Complete this set of simple Python exercises on Replit to ensure you are familiar with Python syntax. 
@@ -184,8 +184,8 @@ Completing this form will be combined with the coding above to determine your ov
 
 ## OPTIONAL Engagement Activity: Rock Papers Scissors
 > If you complete this extra activity, you will receive an engagement point for Week 2 of the class. This must be solved **on your own** and will be submitted through Replit.
->   - Replit Project link: [https://replit.com/team/cs2541s22/RockPaperScissors](https://replit.com/team/cs2541s22/RockPaperScissors)
->   - Due: Sunday January 23, 11:59PM
+>   - Replit Project link: [https://replit.com/@gwucs2541sp23/RockPaperScissors](https://replit.com/@gwucs2541sp23/RockPaperScissors)
+>   - Due: January 24, 11:59PM
 
 <img src="/hw1/Rock-paper-scissors.png" style="float:right; width:33%" title="RPS image from Wikimedia Commons"> [Rock, Paper, Scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors) is a simultaneous, hand-based game, where only the luckiest (or wiliest) contestant will survive. Your challenge is to implement a much less physical (and much more predictable) text-based version of the game implemented in Python.
 
