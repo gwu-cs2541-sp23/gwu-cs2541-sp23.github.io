@@ -8,21 +8,19 @@ layout: home
         <li><a href="https://www.cs.seas.gwu.edu/james-taylor"><b>Prof. James Taylor</b></a></li>
         <li><a href="mailto:jrt@gwu.edu">jrt@gwu.edu</a></li>
 	<li>Office: SEH 4665</li>
-        <li>Office Hours: Monday 3-5p <a href="https://calendar.google.com/calendar/selfsched?sstoken=UU5NYU1SQ0p5RmwwfGRlZmF1bHR8MWYyOTY5OTAyOGJkMjU3ZjM1M2QxMzk4ZTc4ODcyNTk">by appointment</a> and Tuesday 12-2p</li>
+        <li>Office Hours: Monday 3-5p <a href="https://calendar.app.google/ccqRFUgdXJanudnbA">by appointment</a> and Tuesday 12-2p</li>
         <li>Class: Mondays 12:45-2pm, Wednesdays 12:45-3:25PM</li>
         <li><i>Class and Office hours will be on Zoom for the first week of the semester!</i></li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
     <ul class="contact-list">
-<!--
         <li><b>Support Staff:</b></li>
         <li><b>Ratnadeep Bhattacharya</b></li>
         <li><b>Catherine Meadows</b>; Office : SEH 4th Floor; Office Hours : Monday 5-7p</li>
         <li><b>Dania Abdalla</b>; Office : SEH 4th Floor; Office Hours : Wednesday 3:30-5:30p</li>
         <li><b>Samantha Kusner</b>; Office : SEH 4th Floor; Office Hours : Friday 12-2p</li>
         <li><b>Viraj Prakash</b>; Office : SEH 4th Floor; Office Hours : TBD</li>
--->
     </ul>
     </div>
 </div></div>
