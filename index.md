@@ -17,10 +17,10 @@ layout: home
     <ul class="contact-list">
         <li><b>Support Staff:</b></li>
         <li><b>Ratnadeep Bhattacharya</b></li>
-        <li><b>Catherine Meadows</b>; Office Hours : Mon 5-7p SEH 4th Floor</li>
-        <li><b>Dania Abdalla</b>; Office Hours : Wed 3:30-5:30p SEH 4th Floor</li>
-        <li><b>Samantha Kusner</b> Office Hours : Fri 12-2p SEH 4th Floor</li>
-        <li><b>Viraj Prakash</b>; Office Hours : TBD</li>
+        <li><b>Catherine Meadows</b>; Office : Mon 5-7p SEH 4th Floor</li>
+        <li><b>Dania Abdalla</b>; Office : Wed 3:30-5:30p SEH 4th Floor</li>
+        <li><b>Samantha Kusner</b> Office : Fri 12-2p SEH 4th Floor</li>
+        <li><b>Viraj Prakash</b>; Office : TBD</li>
     </ul>
     </div>
 </div></div>
