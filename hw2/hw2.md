@@ -13,7 +13,7 @@ For this assignment you must build a student roster application that shows a lis
 
 **This is an INDIVIDUAL assignment.** You may reuse some of the code from your Lab 2, but you may not work with those students (or any others) to complete the assignment.
 
-**Project URL:** [https://replit.com/team/cs2541s22/HW2-Student-Roster](https://replit.com/team/cs2541s22/HW2-Student-Roster)
+**Project URL:** [https://replit.com/team/gwucs2541sp23/HW2-Student-Roster](https://replit.com/team/gwucs2541sp23/HW2-Student-Roster)
 
 **Deadline:** Friday January 28th 11:59PM. Remember to hit *Submit!*
 
