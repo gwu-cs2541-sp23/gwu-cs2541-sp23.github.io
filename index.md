@@ -15,12 +15,14 @@ layout: home
 </div>
 <div class="footer-col two-col-2">
     <ul class="contact-list">
+<!--
         <li><b>Support Staff:</b></li>
         <li><b>Ratnadeep Bhattacharya</b></li>
         <li><b>Catherine Meadows</b>; Office : SEH 4th Floor; Office Hours : Monday 5-7p</li>
         <li><b>Dania Abdalla</b>; Office : SEH 4th Floor; Office Hours : Wednesday 3:30-5:30p</li>
         <li><b>Samantha Kusner</b>; Office : SEH 4th Floor; Office Hours : Friday 12-2p</li>
         <li><b>Viraj Prakash</b>; Office : SEH 4th Floor; Office Hours : TBD</li>
+-->
     </ul>
     </div>
 </div></div>
