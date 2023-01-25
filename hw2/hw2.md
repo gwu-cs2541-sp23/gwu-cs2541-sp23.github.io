@@ -15,7 +15,7 @@ For this assignment you must build a student roster application that shows a lis
 
 **Project URL:** [https://replit.com/team/gwucs2541sp23/HW2-Student-Roster](https://replit.com/team/gwucs2541sp23/HW2-Student-Roster)
 
-**Deadline:** Friday January 28th 11:59PM. Remember to hit *Submit!*
+**Deadline:** Friday February 3rd 11:59PM. Remember to hit *Submit!*
 
 **Hint:** The [Lab 2 slides and Instructor Playground Replit](/lab2) have a lot of useful information on using Flask templates! You should be using template syntax for `if` statements, `for` loops, and access to dictionary values!
 </blockquote>
