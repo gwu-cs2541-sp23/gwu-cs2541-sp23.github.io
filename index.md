@@ -7,7 +7,8 @@ layout: home
     <ul class="contact-list">
         <li><a href="https://www.cs.seas.gwu.edu/james-taylor"><b>Prof. James Taylor</b></a></li>
         <li><a href="mailto:jrt@gwu.edu">jrt@gwu.edu</a></li>
-        <li>Office Hours: TBD</li>
+	<li>Office: SEH 4665</li>
+        <li>Office Hours: Monday 3-5p <a href="https://calendar.google.com/calendar/selfsched?sstoken=UU5NYU1SQ0p5RmwwfGRlZmF1bHR8MWYyOTY5OTAyOGJkMjU3ZjM1M2QxMzk4ZTc4ODcyNTk">by appointment<a> and Tuesday 12-2p</li>
         <li>Class: Mondays 12:45-2pm, Wednesdays 12:45-3:25PM</li>
         <li><i>Class and Office hours will be on Zoom for the first week of the semester!</i></li>
     </ul>
@@ -15,9 +16,11 @@ layout: home
 <div class="footer-col two-col-2">
     <ul class="contact-list">
         <li><b>Support Staff:</b></li>
-        <li><b>Ratnadeep Bhattacharya, Catherine Meadows</b></li>
-	<li><b>Dania Abdalla, Jet Jacobs, Samantha Kusner</b></li>
-	<li><b>Viraj Prakash</b></li>
+        <li><b>Ratnadeep Bhattacharya</b></li>
+        <li><b>Catherine Meadows</b>; Office : SEH 4th Floor; Office Hours : Monday 5-7p</li>
+        <li><b>Dania Abdalla</b>; Office : SEH 4th Floor; Office Hours : Wednesday 3:30-5:30p</li>
+        <li><b>Samantha Kusner</b>; Office : SEH 4th Floor; Office Hours : Friday 12-2p</li>
+        <li><b>Viraj Prakash</b>; Office : SEH 4th Floor; Office Hours : TBD</li>
     </ul>
     </div>
 </div></div>
@@ -45,7 +48,7 @@ Note: Students taking this course are also expected to be taking CS2501 to meet 
 | Week | Content |
 |:---  |:--- |
 | Week 1 | *Wednesday 1/18/23:* Intro to DB - [Slides](https://docs.google.com/presentation/d/1S1IpvjQzQHmBwKANpV27QqH1R6xP95xP/edit?usp=sharing&ouid=115718246862946225311&rtpof=true&sd=true) <br> - [Lab 1: HTML+CSS](lab1/)<br> - [HW1](/hw1/): Due Tues 1/24 |
-| Week 2 | *Monday 1/23/23:* DBMS and Course Outline - [Slides](https://docs.google.com/presentation/d/1cWGvGGYdMJCCCibBxSsX37xsKCnwYTQS/edit?usp=share_link&ouid=115718246862946225311&rtpof=true&sd=true) <br>*Wednesday 1/25/23:* Relational Model Lecture <br> - [Lab 2: Python + Flask](lab2/)<br> - [HW2](hw2/): Due Fri 2/3 |
+| Week 2 | *Monday 1/23/23:* DBMS and Course Outline - [Slides](https://docs.google.com/presentation/d/1cWGvGGYdMJCCCibBxSsX37xsKCnwYTQS/edit?usp=share_link&ouid=115718246862946225311&rtpof=true&sd=true) <br>*Wednesday 1/25/23:* Relational Model Lecture - [Slides](https://docs.google.com/presentation/d/1ifGtyeYiRl1jyfv_QnfkyD3EsUbGSNfi/edit?usp=sharing&ouid=115718246862946225311&rtpof=true&sd=true) <br> - [Lab 2: Python + Flask](lab2/)<br> - [HW2](hw2/): Due Fri 2/3 |
 | Week 3 | *Monday 1/30/23:* SQL DDL <br>*Wednesday 2/1/23:* SQL DML <br> - Lab 3: SQLite<br> - HW3 - Due Tues 2/7 11:59PM |
 | Week 4 | *Monday 2/6/23:* ER Model <br>*Wednesday 2/8/23:* Normalization <br> - Lab 4: DB Design Due Sat 2/11 11:59PM |
 | Week 5 | *Monday 2/13/23:* Functional Dependencies <br>*Wednesday 2/15/23:* Decomposition and BCNF <br> - Lab 5: Flask + SQL by Sun 2/19<br> - HW 5: Normalization due Tues 2/21 - [Normalization Reference Sheet](/slides/sheet-normal-forms.pdf) |
