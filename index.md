@@ -8,9 +8,9 @@ layout: home
         <li><a href="https://www.cs.seas.gwu.edu/james-taylor"><b>Prof. James Taylor</b></a></li>
         <li><a href="mailto:jrt@gwu.edu">jrt@gwu.edu</a></li>
 	<li>Office: SEH 4665</li>
-        <li>Office Hours: Monday 3-5p <a href="https://calendar.app.google/ccqRFUgdXJanudnbA">by appointment</a> and Tuesday 12-2p</li>
-        <li>Class: Mondays 12:45-2pm, Wednesdays 12:45-3:25PM</li>
-        <li><i>Class and Office hours will be on Zoom for the first week of the semester!</i></li>
+        <li>Office Hours: Mon 3-5p (<a href="https://calendar.app.google/ccqRFUgdXJanudnbA">by appointment</a>) and Tue 12-2p</li>
+        <li>Class: Mon 12:45-2pm, Wed 12:45-3:25PM</li>
+<!--        <li><i>Class and Office hours will be on Zoom for the first week of the semester!</i></li>  -->
     </ul>
 </div>
 <div class="footer-col two-col-2">
