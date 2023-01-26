@@ -20,7 +20,7 @@ layout: home
         <li><b>Catherine Meadows</b>; Office : Mon 5-7p SEH 4th Floor</li>
         <li><b>Dania Abdalla</b>; Office : Wed 3:30-5:30p SEH 4th Floor</li>
         <li><b>Samantha Kusner</b> Office : Fri 12-2p SEH 4th Floor</li>
-        <li><b>Viraj Prakash</b>; Office : TBD</li>
+        <li><b>Viraj Prakash</b>; Office : Thu 5:15-7p SEH 4th Floor</li>
     </ul>
     </div>
 </div></div>
