@@ -16,8 +16,9 @@ Project Module Specifications:
 
 
 **Timeline**
- - March 23: Project / Teams assigned
- - March 29: Mentor Check In
+ - March 22: Project / Teams assigned
+ - March 25: Stakeholder Questions due (max 5)
+ - March 29: Mentor check-in
  - April 5: Phase 1 initial demo
  - April 12: Phase 1 DUE in class
  - April 17: Phase 1 Report due 11:59PM
