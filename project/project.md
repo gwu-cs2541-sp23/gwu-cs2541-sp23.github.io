@@ -7,20 +7,20 @@ permalink: /project/
 ## Project Specs
 
 Project Module Specifications:
- - [Registration System](/project/REGS-2022.docx)
- - [Advising System](/project/ADS-2022.docx)
- - [Application System](/project/APPS-2022.docx)
+ - [Registration System](/project/REGS-2023.docx)
+ - [Advising System](/project/ADS-2023.docx)
+ - [Application System](/project/APPS-2023.docx)
 
 
 ## Phase 1 
 
 
 **Timeline**
- - March 9: Project / Teams assigned
- - March 23: Mentor Check In
- - March 30: Phase 1 initial demo
- - April 6: Phase 1 DUE in class
- - April 11: Phase 1 Report due 11:59PM
+ - March 23: Project / Teams assigned
+ - March 29: Mentor Check In
+ - April 5: Phase 1 initial demo
+ - April 12: Phase 1 DUE in class
+ - April 17: Phase 1 Report due 11:59PM
 
 **Mentor Status Checks**
   - At each status check we will check your progress and check your progress so far, the clarify of your plan for next steps, and how well your team is working together.
@@ -41,7 +41,7 @@ Project Module Specifications:
   - A list of missing functionality from your final implementation
   - A work breakdown describing the key responsibilities of each team member
  
-Your report must be committed and pushed to your repository by 11:59PM on Monday April 11th. It should be in a file named `Readme.md` or `Readme.pdf` in the `main` branch. 
+Your report must be committed and pushed to your repository by 11:59PM on Monday April 17th. It should be in a file named `Readme.md` or `Readme.pdf` in the `main` branch. 
 
 
 ## Phase 2 
@@ -78,10 +78,10 @@ You must submit a short written report about your project containing the followi
 
 Your report should be submitted as a file named  `final-report.md` or `final-report.pdf` in your repository.
 
-Your report is due by 11:59pm Friday May 6th (earlier if possible!). If you submit your report *after* you do your demo, please create an issue and tag `@twood02` to notify us for grading.
+Your report is due by 11:59pm Friday May 5th (earlier if possible!). If you submit your report *after* you do your demo, please create an issue and tag `@semajrolyat` to notify us for grading.
 
 ### Phase 2 Grading
-Each team will need to schedule a grading appointment on May 2nd or May 6th. 
+Each team will need to schedule a grading appointment on May 4th or May 5th. 
 
 During your appointment we will walk through a script to test your application similar to phase 1. We will also be asking you deeper questions about your project's design and implementation. After we test your basic functionality you will have a chance to show off any extra features you added.
 
