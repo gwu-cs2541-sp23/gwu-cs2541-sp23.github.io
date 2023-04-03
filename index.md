@@ -58,7 +58,7 @@ Note: Students taking this course are also expected to be taking CS2501 to meet 
 | Week 9 | Spring Break! |
 | Week 10 | *Monday 3/20/23:* Agile Development - [Slides](https://docs.google.com/presentation/d/1kZmzI1giii8czbHaME7rSlmmQQX7jJVW/edit?usp=sharing&ouid=115718246862946225311&rtpof=true&sd=true) <br>*Wednesday 3/22/23:* Team Work <br> - Lab 8: Gitting Started - Phase 1 Git Rep |
 | Week 11 | *Monday 3/27/23:* DB Internals - [Slides](https://docs.google.com/presentation/d/1SZCNKWWePhrF-JOVsNyfbEptbbnwdJJG/edit?usp=sharing&ouid=115718246862946225311&rtpof=true&sd=true) <br>*Wednesday 3/29/23:* Lab: Sqlite to MySQL <br> - Mentor Meeting |
-| Week 12 | *Monday 4/3/23:* RDBMS Challenges <br>*Wednesday 4/5/23:* Lab <br> - Mentor Meeting |
+| Week 12 | *Monday 4/3/23:* RDBMS Challenges - [Slides](https://docs.google.com/presentation/d/14j6C0mj4aXPjyGber8HJTyTz3eEl9Cj2/edit?usp=sharing&ouid=115718246862946225311&rtpof=true&sd=true) <br>*Wednesday 4/5/23:* Lab <br> - Mentor Meeting |
 | Week 13 | *Monday 4/10/23:* NoSQL <br>*Wednesday 4/12/23:* Phase 1<br> - due in class |
 | Week 14 | *Monday 4/17/23:* Relational Algebra <br>*Wednesday 4/19/23:* Lab<br> - Mentor Meeting |
 | Week 15 | *Monday 4/24/23:* Indexes / Optimization <br>*Wednesday 4/26/23:* Mentor Meeting<br> - (Designated Monday) |
